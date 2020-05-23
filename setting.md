@@ -1,1 +1,2 @@
-# settings \n setting developers
+# settings 
+setting developers
